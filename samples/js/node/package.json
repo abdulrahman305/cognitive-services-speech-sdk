@@ -11,7 +11,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "dependencies": {
-    "@azure/identity": "^3.4.0",
+    "@azure/identity": "^4.2.1",
     "difflib": "^0.2.4",
     "https-proxy-agent": "^3.0.0",
     "lodash": "^4.17.21",
